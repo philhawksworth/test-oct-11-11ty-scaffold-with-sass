@@ -4,5 +4,5 @@
   
 [[redirects]]
   from = "/joke"
-  to = "/.netlify/functions/joke
+  to = "/.netlify/functions/joke"
   status = 200
