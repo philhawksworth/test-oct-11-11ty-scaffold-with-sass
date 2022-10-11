@@ -16,7 +16,7 @@ body {
   font-size: 14px;
   background-color: $primary-page-color;
   padding: 2rem;
-  border-top: 3px solid $secondary-text-color;
+  border-top: 30px solid $secondary-text-color;
 
   @include bp(mid) {
     border-top-color: $accent-color;
